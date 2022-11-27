@@ -81,7 +81,7 @@ function getNumberFromConsole() {
       return promise;
     }
 
-async function playGame(){
+async function startProgram(){
  
     let numberFromConsole;
     const gameOptions = 
@@ -224,7 +224,7 @@ async function playGame(){
       process.exit(0)
   }
 } 
-playGame();
+startProgram();
 
   
   
