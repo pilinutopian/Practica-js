@@ -146,7 +146,8 @@ async function playGame(){
           ageRange.map(x => console.log(x.name));
           break;
         case 10:
-        // 10- Añadir un alumno nuevo con los siguientes datos:
+        /* 10- Añadir un alumno nuevo con los siguientes datos:nombre aleatorio, edad aleatoria entre 20 y 50 años, 
+          género aleatorio, listado de calificaciones vacío. ¡OJO!, el nombre y el género tienen que ir acordes. */
           function getRandomNumber(min, max) {
             return Math.floor(Math.random() * (max - min + 1)) + min;
           }          
