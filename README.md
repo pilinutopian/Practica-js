@@ -1,6 +1,6 @@
-## Práctica para el curso de Introducción a JavaScript - María Pilar Casanueva David
+# Práctica para el curso de Introducción a JavaScript - María Pilar Casanueva David
 
-# Classroom management:
+## Classroom management:
 
 Instrucciones: 
 Necesitamos desarrollar una aplicación hecha con javascript que nos ayude a gestionar los alumnos de nuestra clase.
